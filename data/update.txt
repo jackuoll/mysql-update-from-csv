@@ -1,0 +1,4 @@
+subscriber_key,first_name,email,preference
+D_3,opoo,changed@poopy.com,1
+D_4,x,jacksabeast@lol.com,1
+D_154,aaaa,newone@lol.com,1
